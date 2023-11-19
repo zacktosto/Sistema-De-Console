@@ -16,7 +16,7 @@
 
  1. Clone o repositório:
   '''bash
-git clone
+git clone 
 
 
 ============================================================================================
@@ -40,7 +40,7 @@ git clone
     
     - 'Console': Represente um console de videogame com atributos com nome, versão, ano, disponibilidade, esatado e valor.
     
-    - 'Gerenciamento De Console': Fornece operações básicas de CRUD ( Criar, Ler, Atualizar, Deletar) para gerenciar instâncias de consoles.
+    - 'CosoleControler': Fornece operações básicas de CRUD ( Criar, Ler, Atualizar, Deletar) para gerenciar instâncias de consoles.
     
 ##  ♣️ USO-DE-CLASSES-DO-PROJETO ♥️
   CRUD - Backend
@@ -53,17 +53,13 @@ git clone
     Valor;
   }
   
-  gerenciador de console(){
+  CosoleControler(){
     AdicionarConsole;
     obterConsolePeloNome;
     AtualizarConsole;
     DeletarConsole;
   }
 
-  ## 🎮EXEMPLO DE USO🎮
-
-  // Exemplo de criação de um console e uso do AdicionarConsole
-  
   
   
 
