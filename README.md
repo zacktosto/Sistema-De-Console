@@ -16,7 +16,7 @@
 
  1. Clone o repositório:
   '''bash
-git clone 
+git clone https://github.com/zacktosto/Sistema-De-Console.git
 
 
 ============================================================================================
@@ -40,7 +40,7 @@ git clone
     
     - 'Console': Represente um console de videogame com atributos com nome, versão, ano, disponibilidade, esatado e valor.
     
-    - 'CosoleControler': Fornece operações básicas de CRUD ( Criar, Ler, Atualizar, Deletar) para gerenciar instâncias de consoles.
+    - 'CosoleControler': Fornece operações básicas de CRUD ( All , Adicionar, Atualizar, Excluir) para gerenciar instâncias de consoles.
     
 ##  ♣️ USO-DE-CLASSES-DO-PROJETO ♥️
   CRUD - Backend
@@ -60,12 +60,25 @@ git clone
     DeletarConsole;
   }
 
+## ⚔️ GUILDA-Contribuições ⚔️
+
+Contribuições são bem-vindas! Sinta-se à vontade para reportar problemas, sugerir melhorias ou enviar pull requests.
+
+## GAME-PASS-Licença 📜
+
+Este projeto está licenciado sob a Licença MIT.
   
-  
 
+## Contato ☎️
 
+📞 WhatsApp/Telefone : (19) 98123-5723 📞
 
-Nome: João Vitor Tosto Viotti Nogueira
+✉️ Email: joao.vitor.tosto@gmail.usf.edu.br 📩
+
+## 💻 Criador 💻
+
+BOSS NAME: João Vitor Tosto Viotti Nogueira
+
 R.A.: 202110716
 
 
